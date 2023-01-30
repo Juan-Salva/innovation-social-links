@@ -1,3 +1,4 @@
 # innovation-social-links
-Inputs for analysing the role of social relations in the adoption of agricultural innovations by small-scale maize farmers.
-Leer documento material  complementario
+Insumos para el artículo científico: NADIE INNOVA MÁS DE LO QUE SUS RELACIONES LE PREMITEN: EL CASO DE PEQUEÑOS PRODUCTORES.
+Que analiza el papel de las relaciones sociales en la adopción de innovaciones agrícolas por parte de pequeños productores de maíz. 
+Leer documento material  complementario.
