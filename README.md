@@ -33,7 +33,7 @@ Los datos se publican con fines académicos, de investigación, docencia y repro
 
 ## Cita sugerida del repositorio
 
-Jiménez-Carrasco, J. S., Rendón-Medel, R., Díaz-José, J., & Segura-Salazar, C. M. (2023). *Relaciones sociales y adopción de innovaciones agrícolas en pequeños productores de maíz en México* [Base de datos]. https://github.com/Juan-Salva/innovation-social-links.
+Jiménez-Carrasco, J. S., Rendón-Medel, R., Díaz-José, J., & Segura-Salazar, C. M. (2023). *Relaciones sociales y adopción de innovaciones agrícolas en pequeños productores de maíz en México* [Base de datos]. https://github.com/Juan-Salva/innovation-social-links
 
 ## Artículo asociado
 
